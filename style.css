@@ -16,7 +16,7 @@ h1:hover {
 h3:hover {
     font-size: x-large;
 }
-text {
+p {
     color: pink;
 }
 h3 {
@@ -55,6 +55,6 @@ h2 {
 h2:hover {
     font-family: cursive;
 }
-text:hover {
+p:hover {
     font-weight: bold;
 }
