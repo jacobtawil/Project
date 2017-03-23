@@ -1,0 +1,60 @@
+#lonzoball {
+    width: 500px;
+}
+#jaysontatum {
+    width: 500px;
+}
+#joshhart {
+    width: 500px;
+}
+body {
+background-image: url(https://aos.iacpublishinglabs.com/question/aq/700px-394px/length-width-basketball-court_d6390deb90fb3c23-01.jpg?domain=cx.aos.ask.com);
+}
+h1:hover {
+    color: blue;
+}
+h3:hover {
+    font-size: x-large;
+}
+text {
+    color: pink;
+}
+h3 {
+    color: red;
+}
+h1 {
+    color: green;
+}
+h2 {
+    color: yellow;
+}
+#lonzoball:hover {
+    width: 800px;
+}
+#jaysontatum:hover {
+    width: 300px;
+}
+#frankmason {
+    width: 500px;
+}
+#calebswanigan {
+    width: 500px;
+}
+#joshjackson {
+    width: 500px;
+}
+#joshjackson:hover {
+    width: 700px;
+}
+#calebswanigan:hover {
+    width: 700px;
+}
+#frankmason:hover {
+    width: 700px;
+}
+h2:hover {
+    font-family: cursive;
+}
+text:hover {
+    font-weight: bold;
+}
